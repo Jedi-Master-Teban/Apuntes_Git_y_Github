@@ -17,5 +17,5 @@ Esteban.
 * Uso de emojis en Markdown del repositorio de rxaviers [aquí](https://gist.github.com/rxaviers/7360908).
 * Nombres de colores HTML para el estilizado [aquí](https://htmlcolorcodes.com/color-names/).
 * Añadir pies de página [aquí](https://meta.stackexchange.com/questions/5017/markdown-footnotes).
-* Añadir Links en Markdown [aquí](https://meta.stackexchange.com/questions/5017/markdown-footnotes).
+* Añadir Links en Markdown [aquí](https://www.markdownguide.org/basic-syntax/#links).
 Añadir Links en Markdown aquí.
