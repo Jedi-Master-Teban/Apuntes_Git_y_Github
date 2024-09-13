@@ -15,6 +15,8 @@ Esteban.
 ### Recursos de formato Markdown:
 * Hacks de Markdown [aquí](https://www.markdownguide.org/hacks/).
 * Uso de emojis en Markdown del repositorio de rxaviers [aquí](https://gist.github.com/rxaviers/7360908).
+* Hoja de referencia para Git [aquí] (https://education.github.com/git-cheat-sheet-education.pdf)
+* Página web de comandos de Git y GitHub [aquí] (https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 * Nombres de colores HTML para el estilizado [aquí](https://htmlcolorcodes.com/color-names/).
 * Añadir pies de página [aquí](https://meta.stackexchange.com/questions/5017/markdown-footnotes).
 * Añadir Links en Markdown [aquí](https://www.markdownguide.org/basic-syntax/#links).
